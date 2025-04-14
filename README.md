@@ -1,10 +1,8 @@
 # Cyber-Security-Operations
 Documentation of TheHive &amp; MISP Deployment
 
+TheHive & MISP Deployment
 
-Documentation of TheHive & MISP Deployment
-Objective:
-Design, deploy, and configure TheHive in a controlled local testing environment using virtual machines, with a focus on simulating real-world security operations center (SOC) workflows. This deployment will serve as a foundation for hands-on incident response management and case tracking. Additionally, the environment will be prepared for future integration with MISP (Malware Information Sharing Platform) to enable automated threat intelligence ingestion, correlation, and enrichment, thereby enhancing the overall incident response and threat hunting capabilities________________________________________
 Environment Setup
 Virtual Machines Used:
 •	Ubuntu Server VM – Hosts TheHive.
